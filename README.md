@@ -45,6 +45,25 @@ void *multiplication(void *arg)     /*Performs multiplication.*/
 ...
 ...
 
+char checkopr(void)                 /*Performs checking of operations.*/
+{
+    char opr;
+    if(check == 1)
+        opr = '^';
+    else if(check == 2)
+        opr = '*';
+    else if(check == 3)
+        opr = '/';
+    else if(check == 4)
+        opr = '+';
+    else if(check == 5)
+        opr = '-';
+    return opr;
+}
+
+...
+...
+
 void main(void)
 {
     char choice[10];		/*Stores user's choice to or not to repeat program.*/
@@ -61,3 +80,14 @@ void main(void)
 ...
 ...
 ```
+
+**@blaco** :hugs:: How's life? Did you check out my code? :worried:
+
+<p>
+  <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
+</p>
+
+- :teddy_bear: Leave me a message
+  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+  - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
+  - :snowman: [Whatsapp]()
