@@ -11,3 +11,38 @@ In my own words,\
 &nbsp;&nbsp;&nbsp;&nbsp;b) Each mathematical operation must be performed in a separate thread.\
 &nbsp;&nbsp;&nbsp;&nbsp;c) BONUS – user can select more than one mathematical operation at once.\
 
+---
+
+```python
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <pthread.h>
+#include <math.h>		/*for pow(x, y)*/\
+#include <ctype.h>		/*for ispunct()*/\
+
+pthread_t thread0, thread1, thread2, thread3, thread4;
+int check = 0;          /*Global variable to store mathematical operation.*/
+
+void *powerof(void *arg)        	/*Performs power of two values.*/
+{
+    double *ans = (double *)malloc(sizeof(double));	/*Dynamically allocated memory for the variable, ans.*/
+    double *in = (double *)arg;		/*Type casting the arg from void* to double* .*/
+    *ans = pow(in[0], in[1]);		/*Result from calculation stored in *ans.*/
+    check = 1;
+    return (void *)ans;
+}
+
+void *multiplication(void *arg)     /*Performs multiplication.*/
+{
+    double *ans = (double *)malloc(sizeof(double));
+    double *in = (double *)arg;
+    *ans = in[0] * in[1];
+    check = 2;
+    return (void *)ans;
+}
+
+...
+...
+
+```
