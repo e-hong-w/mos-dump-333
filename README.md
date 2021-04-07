@@ -4,12 +4,12 @@ In my own words,\
 `Make your life easier in a blink of a Touch n Go scan!`
 
 ---
-### Assignment 2: User Level Thread - Multithreaded Application\
-#### Write a multithreaded program using PTHREAD Library, which does the following:\
+### Assignment 2: User Level Thread - Multithreaded Application
+#### Write a multithreaded program using PTHREAD Library, which does the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) Prompt the user for the mathematical operation that the user would like to perform ( your program must support addition and subtraction, other operations are optional bonus )\
-&nbsp;&nbsp;&nbsp;&nbsp;b) Each mathematical operation must be performed in a separate thread.\
-&nbsp;&nbsp;&nbsp;&nbsp;c) BONUS – user can select more than one mathematical operation at once.\
+&nbsp;&nbsp;&nbsp;&nbsp;a) Prompt the user for the mathematical operation that the user would like to perform ( your program must support addition and subtraction, other operations are optional bonus )
+&nbsp;&nbsp;&nbsp;&nbsp;b) Each mathematical operation must be performed in a separate thread.
+&nbsp;&nbsp;&nbsp;&nbsp;c) BONUS – user can select more than one mathematical operation at once.
 
 ---
 
@@ -45,4 +45,19 @@ void *multiplication(void *arg)     /*Performs multiplication.*/
 ...
 ...
 
+void main(void)
+{
+    char choice[10];		/*Stores user's choice to or not to repeat program.*/
+    do{
+        double input[2], *answer;	/*Stores values inputed by user.*/
+        char operation[20];	/*Stores operations inputed by user.*/
+        char *ptropr = operation;	/*Points pointer to the array.*/
+        void *returnvalue;
+        printf("\n\n\tEnter values and operators\t: ");		/*Gets inputs from user.*/
+        scanf("%lf %lf %[^\n]s", &input[0], &input[1], operation);
+
+        while(*ptropr)
+        {
+...
+...
 ```
