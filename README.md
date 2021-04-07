@@ -87,7 +87,7 @@ void main(void)
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-- :teddy_bear: Leave me a message:question:
+- Leave me a message:question:
   - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
   - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
   - :snowman: [Whatsapp]()
