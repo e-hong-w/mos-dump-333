@@ -1,10 +1,12 @@
-# EKT333 Modern Operating System
+# EKT333 Modern Operating System ![GitHub last commit](https://img.shields.io/github/last-commit/ehong-w/mos333-asg2-dump?style=for-the-badge)
 
 In my own words,\
 `Make your life easier in a blink of a Touch n Go scan!`
 
 ---
-### Assignment 2: User Level Thread - Multithreaded Application ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg2-dump)
+### Assignment 2: User Level Thread - Multithreaded Application
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg2-dump)
+![GitHub all releases](https://img.shields.io/github/downloads/ehong-w/mos333-asg2-dump/total)
 #### Write a multithreaded program using PTHREAD Library, which does the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) Prompt the user for the mathematical operation that the user would like to perform ( your program must support addition and subtraction, other operations are optional bonus )
