@@ -1,15 +1,15 @@
 # EKT333 Modern Operating System
-  
+
 In my own words,\
 `Make your life easier in a blink of a Touch n Go scan!`
 
 ---
-### Assignment 2: User Level Thread - Multithreaded Application
+### Assignment 2: User Level Thread - Multithreaded Application ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg2-dump)
 #### Write a multithreaded program using PTHREAD Library, which does the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) Prompt the user for the mathematical operation that the user would like to perform ( your program must support addition and subtraction, other operations are optional bonus )  
-&nbsp;&nbsp;&nbsp;&nbsp;b) Each mathematical operation must be performed in a separate thread.  
-&nbsp;&nbsp;&nbsp;&nbsp;c) BONUS – user can select more than one mathematical operation at once.  
+&nbsp;&nbsp;&nbsp;&nbsp;a) Prompt the user for the mathematical operation that the user would like to perform ( your program must support addition and subtraction, other operations are optional bonus )
+&nbsp;&nbsp;&nbsp;&nbsp;b) Each mathematical operation must be performed in a separate thread.
+&nbsp;&nbsp;&nbsp;&nbsp;c) BONUS – user can select more than one mathematical operation at once.
 
 ---
 
@@ -83,15 +83,15 @@ void main(void)
 
 ---
 
-**@blaco**:hugs:: How's life? Did you check out my code? :worried:  
-**@blaco**:hugs:: Drop me an email for full source code!  
-**@blaco**:hugs:: It's not free, but it worths just a price of a lunch. :shallow_pan_of_food:  
+**@blaco**🐏: How's life? Did you check out my code? 😟
+**@blaco**🐏: Drop me an email for full source code!
+**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗
 
 <p>
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-- Leave me a message:question:
-  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
-  - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
-  - :snowman: [Whatsapp]()
+## 🧸 **Leave me a message?**
+- 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+- 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
+- ⛄ [Whatsapp]()
