@@ -93,5 +93,5 @@ void main(void)
 
 - Leave me a message:question:
   - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
-  - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
+  - :basket: [Linkedin](https://www.linkedin.com/in/ehongw/)
   - :snowman: [Whatsapp]()
