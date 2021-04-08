@@ -8,7 +8,7 @@ In my own words,\
 ---
 ### Assignment 2: User Level Thread - Multithreaded Application
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg2-dump)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/mos333-asg2-dump)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/mos333-asg2-dump )
 ![GitHub all releases](https://img.shields.io/github/downloads/ehong-w/mos333-asg2-dump/total)
 
 #### Write a multithreaded program using PTHREAD Library, which does the following:
