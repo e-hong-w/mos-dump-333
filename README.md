@@ -3,6 +3,8 @@
 In my own words,\
 `Make your life easier in a blink of a Touch n Go scan!`
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+
 ---
 ### Assignment 2: User Level Thread - Multithreaded Application
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg2-dump)
