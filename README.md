@@ -89,7 +89,7 @@ void main(void)
 
 ---
 
-**@blaco**🐏: How's life? Did you check out my code? 😟  
+**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟  
 **@blaco**🐏: Drop me an email for full source code!  
 **@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗  
 
